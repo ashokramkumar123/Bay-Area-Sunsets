@@ -1,4 +1,4 @@
-# Bay-Area-Sunsets
+
 mapboxgl.accessToken = 'pk.eyJ1IjoiYXNob2tyYW1rdW1hcjEyMyIsImEiOiJjbGJyOGZjbTQwMDVnM3Bxem0yZTlrYXhiIn0.KVQ_MC5sbFAc4o3CN4485g'
 //Mapbox token
 var map = new mapboxgl.Map({
